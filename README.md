@@ -2,7 +2,7 @@
 Interactive simulator demonstrating Physics-Guided AI for high-resolution seismic waveform inversion and Optimal Experimental Design (OED).
 
 Physics-Guided AI for Seismic Inversion & OED Simulator 🌍
-![Concept Image](Insert the URL of the concept image here)
+
 
 Overview
 This project is an interactive demonstration application for High-Resolution Multi-Shot Waveform Inversion and Optimal Experimental Design (OED) using Physics-Guided AI (deep learning integrated with physical constraints).
