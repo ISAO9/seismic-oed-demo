@@ -1,7 +1,7 @@
 # seismic-oed-demo
 Interactive simulator demonstrating Physics-Guided AI for high-resolution seismic waveform inversion and Optimal Experimental Design (OED).
 
-Physics-Guided AI for Seismic Inversion & OED Simulator 🌍
+Physics-Guided AI for Seismic Inversion & OED Simulator 🌍 Copyright by ISAO KUROSAWA
 
 
 Overview
